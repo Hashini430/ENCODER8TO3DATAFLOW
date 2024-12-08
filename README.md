@@ -57,6 +57,7 @@ RegisterNumber:24900728
 
 
 **RESULTS**
+Encoder 8 to 3 in dataflow modelling was verifird succesfully
 
 
 
